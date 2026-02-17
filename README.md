@@ -10,7 +10,7 @@
 
 I do not have a lot of *MarkDown tricks* up my sleeve **yet**, so for now let me show you this nice pic:
 <p align="center">
-<img src="https://picsum.photos/1000/1000?random" alt="Nice pic I wish you could see :/" width="300">
+<img src="https://picsum.photos/1000/1000?random=1" alt="Nice pic I wish you could see :/" width="300">
 <img src="https://i.pinimg.com/originals/5d/41/25/5d41258581a287c79edecc467cd8d5c7.gif" alt="Nice pic I wish you could see :/" width="70">
 </p>
 
